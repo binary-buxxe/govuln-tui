@@ -5,7 +5,7 @@ Interactive terminal UI for [govulncheck](https://pkg.go.dev/golang.org/x/vuln/c
 ## Install
 
 ```
-go install github.com/binary-buxxe/vulncheck-tui@latest
+go install github.com/binary-buxxe/govuln-tui@latest
 ```
 
 Requires `govulncheck` on your `PATH`:
