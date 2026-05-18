@@ -1,4 +1,4 @@
-module github.com/binary-buxxe/vulncheck-tui
+module github.com/binary-buxxe/govuln-tui
 
 go 1.24.0
 
